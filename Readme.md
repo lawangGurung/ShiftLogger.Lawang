@@ -24,8 +24,14 @@ To deploy this project Create .env file and inside .env file replace "YOUR_CONNE
  ## Screen shots:
 
 
+![Screenshot from 2024-09-29 15-20-15](https://github.com/user-attachments/assets/4512d6ae-479c-4d5e-a45e-cc66e9e17a23)
 
-* ![App Screenshot]
+![Screenshot from 2024-09-29 15-20-36](https://github.com/user-attachments/assets/47e14a63-12d4-4220-817e-f2c7fc48fa44)
+
+![Screenshot from 2024-09-29 15-21-43](https://github.com/user-attachments/assets/d77dd997-1306-43b7-9ef5-fb391640cc8b)
+
+
+
 
 - Data is presented to user in Table format, using the external library Spectre.Console.
 - This app is beautified using Spectre.Console.
